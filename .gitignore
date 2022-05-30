@@ -9,3 +9,5 @@
 # Output files
 results.json
 errors.log
+
+/.idea
